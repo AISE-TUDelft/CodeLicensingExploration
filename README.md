@@ -32,7 +32,16 @@ The code that was used to extract comments, look for licenses, and cleaning PII 
 
 ## Dataset
 
-We uploaded the dataset of leading comments to huggingface 
+We uploaded the dataset of leading comments to [huggingface](https://huggingface.co/datasets/AISE-TUDelft/leading-comments).
 
 
 ## Citation 
+
+@inproceedings{katzy2024exploratory,
+  title={An Exploratory Investigation into Code License Infringements in Large Language Model Training Datasets},
+  author={Katzy, Jonathan and Popescu, Razvan-Mihai and van Deursen, Arie and Izadi, Maliheh},
+  booktitle={FORGE ’24: 1st International Conference on AI foundation models and software engineering},
+  pages={},
+  year={2024},
+  organization={ACM}
+}
